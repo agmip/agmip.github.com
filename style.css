@@ -31,6 +31,12 @@ a:hover {
   width: 500px;
 }
 
+#main #logo {
+  margin-top: -27px;
+  margin-left: -5px;
+  margin-bottom: 25px;
+}
+
 #main h1 {
   font-size: 40px;
   font-weight: normal;
